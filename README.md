@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=80&lines=CuteVirusCollection;Cute+But+Deadly+Viruses;System+Crash+Experiments;CPU+RAM+DISK+OVERLOAD;Virus+Level+Research+Lab" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=40&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=900&height=80&lines=SystemReaper;Cute+But+Deadly+Viruses;System+Crash+Experiments;CPU+RAM+DISK+OVERLOAD;Virus+Level+Research+Lab" />
 
 </p>
 ### ⚡ A Collection of Cute But Deadly Viruses
